@@ -38,7 +38,7 @@
     "lodash.clonedeep": "^4.5.0",
     "node-mocks-http": "^1.12.2",
     "openapi-types": "^12.1.1",
-    "zod-to-json-schema": "^3.21.1"
+    "zod-to-json-schema": "github:levi/zod-to-json-schema"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
